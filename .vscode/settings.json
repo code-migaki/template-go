@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "gopls": {
+    "formatting.gofumpt": true,
+    "ui.semanticTokens": true
+  },
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "chat.disableAIFeatures": true
+}
